@@ -12,3 +12,4 @@ console.table([accountEmail,accountId,accountPassword,accountCity])
 Var are no more in morden JS cause It doesn't have any scope 
 use only let and const
 */
+console.log(hell0);
